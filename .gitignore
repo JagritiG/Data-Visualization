@@ -1,0 +1,17 @@
+/.pytest_cache
+/figure-pandas
+/figure-seaborn
+/figures
+/venv
+boxplot_nxn.py
+datdataveez_pandas.py
+dataveez_matplotlib2x.py
+plot_all.py
+scatterplot_nxn.py
+simple_plot.py
+sub_plot_2x2_data.py
+switch_options_ex.py
+test_dataveez_matplotlib2x.py
+test_dataveez_pandas.py
+dataveez_pandas.py
+/.idea
